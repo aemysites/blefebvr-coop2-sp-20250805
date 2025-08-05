@@ -1,0 +1,292 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://www.coop.ch/de/unternehmen/ueber-uns/wer-wir-sind.html",
+          "urlHash": "030dabe4d71943d2ed48c07e143c8b59b8c08390",
+          "uuid": "030dabe4-00-0bb675d207fd82e538a9f0f720272ac14f126a1a",
+          "xpath": "/html[1]/body[1]/div[3]/nav[1]"
+        }
+      ],
+      "styles": {
+        "height": 70,
+        "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box"
+      }
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://www.coop.ch/de/unternehmen/ueber-uns/wer-wir-sind.html",
+          "urlHash": "030dabe4d71943d2ed48c07e143c8b59b8c08390",
+          "uuid": "030dabe4-20-c9156db251f7ebb05556ed08d6a80cca611eb1a9",
+          "xpath": "/html[1]/body[1]/div[3]/div[4]"
+        }
+      ],
+      "styles": {
+        "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box"
+      }
+    }
+  ],
+  "blocks": [
+    {
+      "name": "header",
+      "cluster": 1,
+      "source": "Header",
+      "target": "Header",
+      "key": "header1",
+      "instances": [
+        {
+          "url": "https://www.coop.ch/de/unternehmen/ueber-uns/wer-wir-sind.html",
+          "urlHash": "030dabe4d71943d2ed48c07e143c8b59b8c08390",
+          "uuid": "030dabe4-00-0bb675d207fd82e538a9f0f720272ac14f126a1a",
+          "xpath": "/html[1]/body[1]/div[3]/nav[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Tabs",
+      "cluster": 2,
+      "source": "Tabs",
+      "target": "Tabs",
+      "key": "tabs2",
+      "instances": [
+        {
+          "url": "https://www.coop.ch/de/unternehmen/ueber-uns/wer-wir-sind.html",
+          "urlHash": "030dabe4d71943d2ed48c07e143c8b59b8c08390",
+          "uuid": "030dabe4-01-467ff85a41fa75a20150d1119670a5e9b2459ffe",
+          "xpath": "/html[1]/body[1]/div[3]/header[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 3,
+      "source": "Hero",
+      "target": "Hero (hero3)",
+      "key": "hero3",
+      "instances": [
+        {
+          "url": "https://www.coop.ch/de/unternehmen/ueber-uns/wer-wir-sind.html",
+          "urlHash": "030dabe4d71943d2ed48c07e143c8b59b8c08390",
+          "uuid": "030dabe4-03-5f129f60f50eb379c8887d77ff3894a560b032b2",
+          "xpath": "/html[1]/body[1]/div[3]/main[1]/div[2]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 4,
+      "source": "Columns",
+      "target": "Columns (columns4)",
+      "key": "columns4",
+      "instances": [
+        {
+          "url": "https://www.coop.ch/de/unternehmen/ueber-uns/wer-wir-sind.html",
+          "urlHash": "030dabe4d71943d2ed48c07e143c8b59b8c08390",
+          "uuid": "030dabe4-05-8b068a92a3751695ad911fe924566ffc0408ec87",
+          "xpath": "/html[1]/body[1]/div[3]/main[1]/div[3]/div[1]/section[1]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 5,
+      "source": "Columns",
+      "target": "Columns (columns5)",
+      "key": "columns5",
+      "instances": [
+        {
+          "url": "https://www.coop.ch/de/unternehmen/ueber-uns/wer-wir-sind.html",
+          "urlHash": "030dabe4d71943d2ed48c07e143c8b59b8c08390",
+          "uuid": "030dabe4-07-c161a585db778934a530d0e4594f5b9523f55185",
+          "xpath": "/html[1]/body[1]/div[3]/main[1]/div[4]/div[1]/div[1]/div[1]/article[1]/div[2]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.coop.ch/de/unternehmen/ueber-uns/wer-wir-sind.html",
+          "urlHash": "030dabe4d71943d2ed48c07e143c8b59b8c08390",
+          "uuid": "030dabe4-09-67fac796937aa483744400e3b06ff3c71ba0d512",
+          "xpath": "/html[1]/body[1]/div[3]/main[1]/div[5]/div[1]/div[1]/div[1]/article[1]/div[2]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 6,
+      "source": "Cards",
+      "target": "Cards",
+      "key": "cards6",
+      "instances": [
+        {
+          "url": "https://www.coop.ch/de/unternehmen/ueber-uns/wer-wir-sind.html",
+          "urlHash": "030dabe4d71943d2ed48c07e143c8b59b8c08390",
+          "uuid": "030dabe4-12-57f3516ad44c004e6498d13d9e59284cf5f3e8be",
+          "xpath": "/html[1]/body[1]/div[3]/main[1]/div[8]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.coop.ch/de/unternehmen/ueber-uns/wer-wir-sind.html",
+          "urlHash": "030dabe4d71943d2ed48c07e143c8b59b8c08390",
+          "uuid": "030dabe4-14-43ef75a3d382fbfabdf0f6b76b7cee19df35dba3",
+          "xpath": "/html[1]/body[1]/div[3]/main[1]/div[10]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 7,
+      "source": "Hero",
+      "target": "Hero (hero7)",
+      "key": "hero7",
+      "instances": [
+        {
+          "url": "https://www.coop.ch/de/unternehmen/ueber-uns/wer-wir-sind.html",
+          "urlHash": "030dabe4d71943d2ed48c07e143c8b59b8c08390",
+          "uuid": "030dabe4-15-e05f7b9054fb895fbc3204a68875319132d9242c",
+          "xpath": "/html[1]/body[1]/div[3]/main[1]/div[11]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 8,
+      "source": "Columns",
+      "target": "Columns (columns8)",
+      "key": "columns8",
+      "instances": [
+        {
+          "url": "https://www.coop.ch/de/unternehmen/ueber-uns/wer-wir-sind.html",
+          "urlHash": "030dabe4d71943d2ed48c07e143c8b59b8c08390",
+          "uuid": "030dabe4-16-48ce1caa21afa7a9e779db2d6fcd102a0dd8b8c5",
+          "xpath": "/html[1]/body[1]/div[3]/main[1]/div[12]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 9,
+      "instances": [
+        {
+          "url": "https://www.coop.ch/de/unternehmen/ueber-uns/wer-wir-sind.html",
+          "urlHash": "030dabe4d71943d2ed48c07e143c8b59b8c08390",
+          "uuid": "030dabe4-17-d562837083378c81cac5d2283db06885a142cac7",
+          "xpath": "/html[1]/body[1]/div[3]/main[1]/aside[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 10,
+      "source": "Columns",
+      "target": "Columns (columns10)",
+      "key": "columns10",
+      "instances": [
+        {
+          "url": "https://www.coop.ch/de/unternehmen/ueber-uns/wer-wir-sind.html",
+          "urlHash": "030dabe4d71943d2ed48c07e143c8b59b8c08390",
+          "uuid": "030dabe4-18-50855c98f75c426ebfa2a2a45afe42c337ea0d7b",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/div[1]/nav[1]",
+          "section": "section-1"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://www.coop.ch/de/unternehmen/ueber-uns/wer-wir-sind.html",
+      "urlHash": "030dabe4d71943d2ed48c07e143c8b59b8c08390",
+      "uuid": "030dabe4-02-f75795b3f5e36ed87c3793b14cc439cde0606902",
+      "xpath": "/html[1]/body[1]/div[3]/main[1]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.coop.ch/de/unternehmen/ueber-uns/wer-wir-sind.html",
+      "urlHash": "030dabe4d71943d2ed48c07e143c8b59b8c08390",
+      "uuid": "030dabe4-04-52dc4d855dc9657c156584e3aa4f763a294ed619",
+      "xpath": "/html[1]/body[1]/div[3]/main[1]/div[3]/div[1]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.coop.ch/de/unternehmen/ueber-uns/wer-wir-sind.html",
+      "urlHash": "030dabe4d71943d2ed48c07e143c8b59b8c08390",
+      "uuid": "030dabe4-06-8f0e59937b99aec19da186c6d0e47684b2142351",
+      "xpath": "/html[1]/body[1]/div[3]/main[1]/div[4]/div[1]/div[1]/div[1]/article[1]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.coop.ch/de/unternehmen/ueber-uns/wer-wir-sind.html",
+      "urlHash": "030dabe4d71943d2ed48c07e143c8b59b8c08390",
+      "uuid": "030dabe4-08-d7a9a3f29b798764113dd8012b200c013523282d",
+      "xpath": "/html[1]/body[1]/div[3]/main[1]/div[5]/div[1]/div[1]/div[1]/article[1]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.coop.ch/de/unternehmen/ueber-uns/wer-wir-sind.html",
+      "urlHash": "030dabe4d71943d2ed48c07e143c8b59b8c08390",
+      "uuid": "030dabe4-10-89ee558129231da6e41c297f5e0ce8ad7e6a2dc5",
+      "xpath": "/html[1]/body[1]/div[3]/main[1]/div[6]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.coop.ch/de/unternehmen/ueber-uns/wer-wir-sind.html",
+      "urlHash": "030dabe4d71943d2ed48c07e143c8b59b8c08390",
+      "uuid": "030dabe4-11-099e30d6c049a88c2a8cfb7e38c5503ea46af982",
+      "xpath": "/html[1]/body[1]/div[3]/main[1]/div[7]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.coop.ch/de/unternehmen/ueber-uns/wer-wir-sind.html",
+      "urlHash": "030dabe4d71943d2ed48c07e143c8b59b8c08390",
+      "uuid": "030dabe4-13-87fe313de1d31e2632e8c95571aee320f8d0e33f",
+      "xpath": "/html[1]/body[1]/div[3]/main[1]/div[9]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.coop.ch/de/unternehmen/ueber-uns/wer-wir-sind.html",
+      "urlHash": "030dabe4d71943d2ed48c07e143c8b59b8c08390",
+      "uuid": "030dabe4-19-016ef35e9af2ba30e5a16cb7f10e88d89df68aa3",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/div[1]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.coop.ch/de/unternehmen/ueber-uns/wer-wir-sind.html",
+      "urlHash": "030dabe4d71943d2ed48c07e143c8b59b8c08390",
+      "uuid": "030dabe4-20-c9156db251f7ebb05556ed08d6a80cca611eb1a9",
+      "xpath": "/html[1]/body[1]/div[3]/div[4]",
+      "section": "section-1"
+    }
+  ],
+  "sections": [
+    {
+      "name": "section-1",
+      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 14
+    },
+    {
+      "name": "section-2",
+      "background": "rgb(246, 246, 246) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 6
+    },
+    {
+      "name": "section-3",
+      "background": "rgba(0, 0, 0, 0) url(\"https://www.coop.ch/content/unternehmen/de/unternehmen/ueber-uns/wer-wir-sind/_jcr_content/parsys_uebersichtsseite/kbk_059_teaser_image/teaserImageText_lg_md.teaserimagetextlgmd.1260x420.jpg\") repeat scroll 0% 0% / cover padding-box border-box",
+      "count": 1
+    }
+  ]
+}
